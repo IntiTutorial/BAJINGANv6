@@ -1,2 +1,3 @@
 # BAJINGANv6
-Tools Auto installer from Darkness Cyber Team We Security We Not Friends We Are Family
+1. How to use BAJINGANv6 [`Watch it`](https://youtu.be/EqHlItHsde0) 
+2. Fork it...
