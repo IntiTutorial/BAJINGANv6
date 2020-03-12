@@ -1,9 +1,9 @@
 import os, sys
 
-print ("\033[1;32mMasukan UserName&Password:)")
-print ("\033[1;31;1mKalo Gak Tau Pm Mr.BAJINGAN 083108271123")
-username = 'BAJINGAN'      
-password = 'Gans'
+print ("\033[1;32mMasukan UserName & Password :)")
+print ("\033[1;31;1mKalo Gak Tau Pm HEZAL 085332614787")
+username = 'hezal'      
+password = 'Ganszz'
 
 def restart():
 	ngulang = sys.executable
