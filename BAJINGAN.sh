@@ -1,10 +1,5 @@
 #!/system/xbin/bash
-#MauNgapainGblk?
-#DiRecodeGakBakalJadiinLuMastah
-#DiGantiAuthorGakBakalJadiinLuMaster
-#MikirMakeOtakGblk
-#KontolKaloMauReedit/Recode 
-#Pm Gua Bangsat
+#HEZALgansZ
 clear
 cd module
 python2 please.py
@@ -21,13 +16,12 @@ cat asw.txt
 echo ""
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo "\033[32;1mAuthor : Mr.B4J1N64N"
-echo "\033[37;1mFeat: Mr.IM81"
+echo "\033[37;1mFeat: ./HEZAL"
 echo "\033[35;1mversion Tools: 6"
 echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
+echo "\033[33;1mKontak Me :  085332614787"
 echo "\033[31;1mPlease For Subcribe Youtube:"
-echo "\033[92mDarkness Cyber Team" 
-echo "\033[36;1mIndonesia Security Lite"
+echo "\033[92mInti Tutorial" 
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo ""
 echo "\033[32;1mSilahkan Pilih Tools Yang mau Kamu pake:)?:"
@@ -3317,21 +3311,13 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 00 ]
 then
-echo "\033[32;1mDARKNESS CYBER TEAM"
+echo "\033[32;1mTOOLS BY ./HEZAL"
 sleep 1
-echo "\033[33;1mWe Security"
+echo "\033[33;1mTHANK YOU"
 sleep 1
-echo " We Not Friends"
+echo " DON'T FORGET TO SUBSCRIBE "
 sleep 1
-echo "We Are Family"
-sleep 1
-echo "Hacking Is Not Criminal;)"
-sleep 1
-echo "Ketika Sebuah Hayalan Tidak tercapai"
-sleep 1
-echo "Maka Terus lah BerJuang Dan Berusaha:)"
-sleep 1
-echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya:)"
+echo "Inti Tutorial"
 sleep 1
 exit
 fi
